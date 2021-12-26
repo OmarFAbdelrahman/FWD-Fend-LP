@@ -97,17 +97,6 @@ function scrollToSection (evt) {
     }
 }
 
-
-/* Toggle between adding and removing the "responsive" class to navbar__menu when the user clicks on the icon */
-// function myFunction() {
-//     const x = document.getElementsByClassName("navbar__menu");
-//     if (x.className === "navbar__menu") {
-//       x.className += " responsive";
-//     } else {
-//       x.className = "navbar__menu";
-//     }
-//   }
-
 /**
  * End Main Functions
  * Begin Events
